@@ -1,0 +1,928 @@
+{
+	"data": {
+		"heroes": [
+			{
+				"name": "Abaddon",
+				"path_image": "/assets/images/Abaddon_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Alchemist",
+				"path_image": "/assets/images/Alchemist_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Ancient Apparition",
+				"path_image": "/assets/images/Ancient_Apparition_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Anti-Mage",
+				"path_image": "/assets/images/Anti-Mage_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Arc Warden",
+				"path_image": "/assets/images/Arc_Warden_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Axe",
+				"path_image": "/assets/images/Axe_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Bane",
+				"path_image": "/assets/images/Bane_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Batrider",
+				"path_image": "/assets/images/Batrider_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Beastmaster",
+				"path_image": "/assets/images/Beastmaster_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Bloodseeker",
+				"path_image": "/assets/images/Bloodseeker_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Bounty Hunter",
+				"path_image": "/assets/images/Bounty_Hunter_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Centaur Warrunner",
+				"path_image": "/assets/images/Centaur_Warrunner_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Chaos Knight",
+				"path_image": "/assets/images/Chaos_Knight_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Chen",
+				"path_image": "/assets/images/Chen_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Clinkz",
+				"path_image": "/assets/images/Clinkz_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Clockwerk",
+				"path_image": "/assets/images/Clockwerk_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Crystal Maiden",
+				"path_image": "/assets/images/Crystal_Maiden_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Dark Seer",
+				"path_image": "/assets/images/Dark_Seer_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Dark Willow",
+				"path_image": "/assets/images/Dark_Willow_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Dazzle",
+				"path_image": "/assets/images/Dazzle_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Death Prophet",
+				"path_image": "/assets/images/Death_Prophet_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Disruptor",
+				"path_image": "/assets/images/Disruptor_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Doom",
+				"path_image": "/assets/images/Doom_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Dragon Knight",
+				"path_image": "/assets/images/Dragon_Knight_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Drow Ranger",
+				"path_image": "/assets/images/Drow_Ranger_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Earth Spirit",
+				"path_image": "/assets/images/Earth_Spirit_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Elder Titan",
+				"path_image": "/assets/images/Elder_Titan_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Ember Spirit",
+				"path_image": "/assets/images/Ember_Spirit_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Enchantress",
+				"path_image": "/assets/images/Enchantress_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Enigma",
+				"path_image": "/assets/images/Enigma_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Faceless Void",
+				"path_image": "/assets/images/Faceless_Void_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Grimstroke",
+				"path_image": "/assets/images/Grimstroke_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Gyrocopter",
+				"path_image": "/assets/images/Gyrocopter_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Huskar",
+				"path_image": "/assets/images/Huskar_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Invoker",
+				"path_image": "/assets/images/Invoker_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Io",
+				"path_image": "/assets/images/Io_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Jakiro",
+				"path_image": "/assets/images/Jakiro_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Juggernaut",
+				"path_image": "/assets/images/Juggernaut_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Keeper of the Light",
+				"path_image": "/assets/images/Keeper_of_the_Light_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Kunkka",
+				"path_image": "/assets/images/Kunkka_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Legion Commander",
+				"path_image": "/assets/images/Legion_Commander_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Leshrac",
+				"path_image": "/assets/images/Leshrac_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Lich",
+				"path_image": "/assets/images/Lich_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Lifestealer",
+				"path_image": "/assets/images/Lifestealer_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Lina",
+				"path_image": "/assets/images/Lina_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Lion",
+				"path_image": "/assets/images/Lion_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Lone Druid",
+				"path_image": "/assets/images/Lone_Druid_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Luna",
+				"path_image": "/assets/images/Luna_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Lycan",
+				"path_image": "/assets/images/Lycan_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Magnus",
+				"path_image": "/assets/images/Magnus_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Mars",
+				"path_image": "/assets/images/Mars_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Medusa",
+				"path_image": "/assets/images/Medusa_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Meepo",
+				"path_image": "/assets/images/Meepo_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Mirana",
+				"path_image": "/assets/images/Mirana_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Monkey King",
+				"path_image": "/assets/images/Monkey_King_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Morphling",
+				"path_image": "/assets/images/Morphling_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Naga Siren",
+				"path_image": "/assets/images/Naga_Siren_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Nature's Prophet",
+				"path_image": "/assets/images/Nature's_Prophet_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Necrophos",
+				"path_image": "/assets/images/Necrophos_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Night Stalker",
+				"path_image": "/assets/images/Night_Stalker_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Nyx Assassin",
+				"path_image": "/assets/images/Nyx_Assassin_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Ogre Magi",
+				"path_image": "/assets/images/Ogre_Magi_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Omniknight",
+				"path_image": "/assets/images/Omniknight_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Oracle",
+				"path_image": "/assets/images/Oracle_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Outworld Devourer",
+				"path_image": "/assets/images/Outworld_Devourer_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Pangolier",
+				"path_image": "/assets/images/Pangolier_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Phantom Assassin",
+				"path_image": "/assets/images/Phantom_Assassin_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Phantom Lancer",
+				"path_image": "/assets/images/Phantom_Lancer_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Phoenix",
+				"path_image": "/assets/images/Phoenix_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Puck",
+				"path_image": "/assets/images/Puck_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Pudge",
+				"path_image": "/assets/images/Pudge_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Pugna",
+				"path_image": "/assets/images/Pugna_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Queen Of Pain",
+				"path_image": "/assets/images/Queen_Of_Pain_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Razor",
+				"path_image": "/assets/images/Razor_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Riki",
+				"path_image": "/assets/images/Riki_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Rubick",
+				"path_image": "/assets/images/Rubick_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Sand King",
+				"path_image": "/assets/images/Sand_King_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Shadow Demon",
+				"path_image": "/assets/images/Shadow_Demon_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Shadow Fiend",
+				"path_image": "/assets/images/Shadow_Fiend_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Shadow Shaman",
+				"path_image": "/assets/images/Shadow_Shaman_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Silencer",
+				"path_image": "/assets/images/Silencer_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Skywrath Mage",
+				"path_image": "/assets/images/Skywrath_Mage_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Slardar",
+				"path_image": "/assets/images/Slardar_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Slark",
+				"path_image": "/assets/images/Slark_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Snapfire",
+				"path_image": "/assets/images/Snapfire_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Sniper",
+				"path_image": "/assets/images/Sniper_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Spectre",
+				"path_image": "/assets/images/Spectre_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Spirit Breaker",
+				"path_image": "/assets/images/Spirit_Breaker_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Storm Spirit",
+				"path_image": "/assets/images/Storm_Spirit_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Sven",
+				"path_image": "/assets/images/Sven_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Techies",
+				"path_image": "/assets/images/Techies_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Templar Assassin",
+				"path_image": "/assets/images/Templar_Assassin_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Terrorblade",
+				"path_image": "/assets/images/Terrorblade_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Tidehunter",
+				"path_image": "/assets/images/Tidehunter_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Timbersaw",
+				"path_image": "/assets/images/Timbersaw_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Tinker",
+				"path_image": "/assets/images/Tinker_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Tiny",
+				"path_image": "/assets/images/Tiny_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Treant Protector",
+				"path_image": "/assets/images/Treant_Protector_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Troll Warlord",
+				"path_image": "/assets/images/Troll_Warlord_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Tusk",
+				"path_image": "/assets/images/Tusk_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "radiant"
+			},
+			{
+				"name": "Underlord",
+				"path_image": "/assets/images/Underlord_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Undying",
+				"path_image": "/assets/images/Undying_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Ursa",
+				"path_image": "/assets/images/Ursa_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Vengeful Spirit",
+				"path_image": "/assets/images/Vengeful_Spirit_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "radiant"
+			},
+			{
+				"name": "Venomancer",
+				"path_image": "/assets/images/Venomancer_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Viper",
+				"path_image": "/assets/images/Viper_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Visage",
+				"path_image": "/assets/images/Visage_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Void Spirit",
+				"path_image": "/assets/images/Void_Spirit_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Warlock",
+				"path_image": "/assets/images/Warlock_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Weaver",
+				"path_image": "/assets/images/Weaver_icon.png",
+				"description": "",
+				"str_main_attributes": "Agility",
+				"int_main_attributes": 2,
+				"side": "dire"
+			},
+			{
+				"name": "Windranger",
+				"path_image": "/assets/images/Windranger_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			},
+			{
+				"name": "Winter Wyvern",
+				"path_image": "/assets/images/Winter_Wyvern_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Witch Doctor",
+				"path_image": "/assets/images/Witch_Doctor_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "dire"
+			},
+			{
+				"name": "Wraith King",
+				"path_image": "/assets/images/Wraith_King_icon.png",
+				"description": "",
+				"str_main_attributes": "Strength",
+				"int_main_attributes": 1,
+				"side": "dire"
+			},
+			{
+				"name": "Zeus",
+				"path_image": "/assets/images/Zeus_icon.png",
+				"description": "",
+				"str_main_attributes": "Intelligence",
+				"int_main_attributes": 3,
+				"side": "radiant"
+			}
+		],
+		"items": [],
+		"teams": []
+	}
+}
