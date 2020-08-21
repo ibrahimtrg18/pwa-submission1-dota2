@@ -37,6 +37,11 @@ body {
 	opacity: 0.8;
 }
 
+.image-title{
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
 .heroes{
 	padding: 0.25rem !important;
 }
