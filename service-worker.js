@@ -1,4 +1,4 @@
-const CACHE_NAME = "dota2-v2";
+const CACHE_NAME = "dota2-v1";
 const urlsToCache = [
     "/",
     "/manifest.json",
@@ -16,6 +16,8 @@ const urlsToCache = [
     "/js/heroes.js",
     "/assets/fonts/Nunito/Nunito-Regular.ttf",
     "/assets/icons/dota2.png",
+    "/assets/icons/dota2-192.png",
+    "/assets/icons/dota2-512.png",
     "/assets/icons/dota2.svg",
     "/assets/icons/github_icon.svg",
     "/assets/icons/instagram_icon.svg",
@@ -51,7 +53,6 @@ const urlsToCache = [
     "/assets/images/Death_Prophet_icon.png",
     "/assets/images/Disruptor_icon.png",
     "/assets/images/Doom_icon.png",
-    "/assets/images/dota2.png",
     "/assets/images/Dragon_Knight_icon.png",
     "/assets/images/Drow_Ranger_icon.png",
     "/assets/images/Earthshaker_icon.png",
